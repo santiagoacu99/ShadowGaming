@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b4c1e98c.css",
+    "main.js": "/static/js/main.6a6c7a0c.js",
+    "static/media/logo.png": "/static/media/logo.9a883408d249f3cc4b87.png",
+    "static/media/pc.webp": "/static/media/pc.987cef60306536f28cbe.webp",
+    "static/media/razer.webp": "/static/media/razer.5157ee61b7000f869297.webp",
+    "static/media/gamingxp.png": "/static/media/gamingxp.9e3745316fe2e47d4939.png",
+    "static/media/monitores144.png": "/static/media/monitores144.2e5259b08e1e4bcfad15.png",
+    "static/media/monitorsG.png": "/static/media/monitorsG.6fa1d3d6a19296ce289f.png",
+    "static/media/pcgamers.webp": "/static/media/pcgamers.c9cf0f4bc44e74fb822b.webp",
+    "static/media/preciosNotebooks.png": "/static/media/preciosNotebooks.d1bf00af1752837a6d12.png",
+    "static/media/notebookGaming.png": "/static/media/notebookGaming.9e5f0044cb06f44ed8d5.png",
+    "static/media/AMD.png": "/static/media/AMD.fe6342e58c269ee8694b.png",
+    "static/media/workstation.webp": "/static/media/workstation.3dd2d8e58dd86ef7b0dc.webp",
+    "static/media/publicm.webp": "/static/media/publicm.b7389276c73d9f17b877.webp",
+    "static/media/publicg.webp": "/static/media/publicg.bf47988f3e8c1338aa60.webp",
+    "static/media/NVIDIA.webp": "/static/media/NVIDIA.9edc1fba1970c3a0ec90.webp",
+    "static/media/razer1.webp": "/static/media/razer1.b274a0ad14edb0e90412.webp",
+    "static/media/marcasaorus.webp": "/static/media/marcasaorus.bc2b14d027d70223b11c.webp",
+    "static/media/aorus1.webp": "/static/media/aorus1.2a5919115ad1c883084f.webp",
+    "static/media/elgato1.webp": "/static/media/elgato1.df825da864be58db8bf1.webp",
+    "static/media/notebooks.webp": "/static/media/notebooks.9294954a1cf9752da581.webp",
+    "static/media/marcascorsair.webp": "/static/media/marcascorsair.8fc4c6a0175436f6e389.webp",
+    "static/media/corsair1.webp": "/static/media/corsair1.a917d804a041e3c48fe5.webp",
+    "static/media/marcasrazer.webp": "/static/media/marcasrazer.069edc276adcd21567c3.webp",
+    "static/media/marcaselgato.webp": "/static/media/marcaselgato.06358cb31274035579e5.webp",
+    "static/media/DATAWEB.jpg": "/static/media/DATAWEB.465a73646afefb813a6a.jpg",
+    "index.html": "/index.html",
+    "main.b4c1e98c.css.map": "/static/css/main.b4c1e98c.css.map",
+    "main.6a6c7a0c.js.map": "/static/js/main.6a6c7a0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4c1e98c.css",
+    "static/js/main.6a6c7a0c.js"
+  ]
+}
